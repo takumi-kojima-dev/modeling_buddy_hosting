@@ -4,13 +4,15 @@
            {
              "appIDs": [ "L8XUG2794C.com.kojima.modelingBuddy" ],
              "paths": ["*"],
+             "components": [
+               {
+                  "/": "/*"
+               }
+            ]
            }
        ]
    },
    "webcredentials": {
       "apps": [ "L8XUG2794C.com.kojima.modelingBuddy" ]
    },
-   "appclips": {
-        "apps": ["L8XUG2794C.com.kojima.modelingBuddy"]
-    }
 }
