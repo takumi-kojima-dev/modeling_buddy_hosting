@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kojima.modelingBuddy",
+      "sha256_cert_fingerprints": ["49:9A:87:BD:E2:52:E8:19:63:C8:D9:E4:63:2D:19:CE:76:C0:30:2A:69:63:49:E6:F7:8B:F7:16:F6:2C:4C:F7"]
+    }
+  }
+]
