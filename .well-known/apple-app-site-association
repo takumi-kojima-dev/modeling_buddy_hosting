@@ -1,0 +1,26 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "{TeamID}.{package名}" ],
+             "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "このフラグメントが 'no_universal_links' のURLは、Universal Linkとして開かれません。"
+               },
+               {
+                  "/": "/abcd/*",
+                  "comment": "このパターンは、'/abcd/'で始まるURLにマッチします。"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "{TeamID}.{package名}" ]
+   },
+   "appclips": {
+        "apps": ["{TeamID}.{package名}"]
+    }
+}
