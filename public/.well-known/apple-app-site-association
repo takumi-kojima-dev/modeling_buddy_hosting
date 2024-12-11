@@ -2,7 +2,8 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "{TeamID}.{package名}" ],
+             "appIDs": [ "L8XUG2794C.com.kojima.modelingBuddy" ],
+             "paths": ["*"],
              "components": [
                {
                   "#": "no_universal_links",
@@ -18,9 +19,9 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "{TeamID}.{package名}" ]
+      "apps": [ "L8XUG2794C.com.kojima.modelingBuddy" ]
    },
    "appclips": {
-        "apps": ["{TeamID}.{package名}"]
+        "apps": ["L8XUG2794C.com.kojima.modelingBuddy"]
     }
 }
